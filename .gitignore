@@ -1,4 +1,10 @@
 # Logs
+#Junk
+.DS_Store
+.vscode/
+.idea/
+
+
 logs
 *.log
 npm-debug.log*
